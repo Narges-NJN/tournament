@@ -1,6 +1,6 @@
-# tournament
-#### tournament.py predicts the chance of winning of each team based on the datas from CSV files.
-#### The csv files contain key,value = team, rating
+# Tournament Simulation
+### tournament.py predicts the chance of winning of each team based on the datas from CSV files.
+### The csv files contain key,value = team, rating
 
 Run using Sample CSV files as following:
 ```shell
